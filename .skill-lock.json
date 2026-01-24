@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "skills": {
+    "building-native-ui": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-app-design/skills/building-native-ui/SKILL.md",
+      "skillFolderHash": "49cdbadfbc7fe90422540240262e27dfa5f6a4da",
+      "installedAt": "2026-01-24T21:57:39.303Z",
+      "updatedAt": "2026-01-24T21:57:39.303Z"
+    }
+  }
+}
