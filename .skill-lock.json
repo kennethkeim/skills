@@ -18,6 +18,69 @@
       "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
       "installedAt": "2026-01-24T22:07:40.397Z",
       "updatedAt": "2026-01-24T22:07:40.397Z"
+    },
+    "upgrading-expo": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/upgrading-expo/skills/upgrading-expo/SKILL.md",
+      "skillFolderHash": "8c156bf885c5068adf346d743822199d1b66989d",
+      "installedAt": "2026-01-26T17:45:58.504Z",
+      "updatedAt": "2026-01-26T17:45:58.504Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-01-26T17:51:10.722Z",
+      "updatedAt": "2026-01-26T17:51:10.722Z"
+    },
+    "expo-cicd-workflows": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-deployment/skills/expo-cicd-workflows/SKILL.md",
+      "skillFolderHash": "3e9753a3ba093b8be385deb28db384d183f1e8b9",
+      "installedAt": "2026-01-26T17:53:24.286Z",
+      "updatedAt": "2026-01-26T17:53:24.286Z"
+    },
+    "expo-tailwind-setup": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-app-design/skills/expo-tailwind-setup/SKILL.md",
+      "skillFolderHash": "bf60256bc226ad60a1eb0a6ce5e32b4aa83b5576",
+      "installedAt": "2026-01-26T17:56:03.721Z",
+      "updatedAt": "2026-01-26T17:56:03.721Z"
+    },
+    "native-data-fetching": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-app-design/skills/native-data-fetching/SKILL.md",
+      "skillFolderHash": "3aae1b5c10b87a251052a355daea460a9ecd7dcf",
+      "installedAt": "2026-01-26T17:56:24.841Z",
+      "updatedAt": "2026-01-26T17:56:24.841Z"
+    },
+    "expo-deployment": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-deployment/skills/expo-deployment/SKILL.md",
+      "skillFolderHash": "1b85cb69d451371559ff6af4f08283a0a6679d1c",
+      "installedAt": "2026-01-26T17:56:39.575Z",
+      "updatedAt": "2026-01-26T17:56:39.575Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "b86e3967846abb5beeeb874410d8f2ebf6a3f5e1",
+      "installedAt": "2026-01-26T17:56:54.233Z",
+      "updatedAt": "2026-01-26T17:56:54.233Z"
     }
   }
 }
