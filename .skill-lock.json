@@ -81,6 +81,32 @@
       "skillFolderHash": "b86e3967846abb5beeeb874410d8f2ebf6a3f5e1",
       "installedAt": "2026-01-26T17:56:54.233Z",
       "updatedAt": "2026-01-26T17:56:54.233Z"
+    },
+    "postgresql-table-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/database-design/skills/postgresql/SKILL.md",
+      "skillFolderHash": "b4117b0efdd5b2b1d4dece79c1d99643f60e77b9",
+      "installedAt": "2026-02-04T12:18:03.655Z",
+      "updatedAt": "2026-02-04T12:18:03.655Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-02-04T12:18:09.899Z",
+      "updatedAt": "2026-02-04T12:18:09.899Z"
     }
+  },
+  "lastSelectedAgents": [
+    "claude-code",
+    "opencode",
+    "codex"
+  ],
+  "dismissed": {
+    "findSkillsPrompt": true
   }
 }
