@@ -99,12 +99,30 @@
       "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
       "installedAt": "2026-02-04T12:18:09.899Z",
       "updatedAt": "2026-02-04T12:18:09.899Z"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "grill-me/SKILL.md",
+      "skillFolderHash": "58fccb407d628b1e89832b681410870826a947b9",
+      "installedAt": "2026-03-23T21:25:17.042Z",
+      "updatedAt": "2026-03-23T21:25:17.042Z"
     }
   },
   "lastSelectedAgents": [
-    "claude-code",
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
     "opencode",
-    "codex"
+    "warp",
+    "claude-code"
   ],
   "dismissed": {
     "findSkillsPrompt": true
