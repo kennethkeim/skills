@@ -78,27 +78,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
       "skillPath": "skills/react-best-practices/SKILL.md",
-      "skillFolderHash": "b86e3967846abb5beeeb874410d8f2ebf6a3f5e1",
+      "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
       "installedAt": "2026-01-26T17:56:54.233Z",
-      "updatedAt": "2026-01-26T17:56:54.233Z"
+      "updatedAt": "2026-05-21T11:29:09.342Z"
     },
     "postgresql-table-design": {
       "source": "wshobson/agents",
       "sourceType": "github",
       "sourceUrl": "https://github.com/wshobson/agents.git",
       "skillPath": "plugins/database-design/skills/postgresql/SKILL.md",
-      "skillFolderHash": "b4117b0efdd5b2b1d4dece79c1d99643f60e77b9",
+      "skillFolderHash": "af5f00c55b492ba36ea67d34393fb3003ad320d2",
       "installedAt": "2026-02-04T12:18:03.655Z",
-      "updatedAt": "2026-02-04T12:18:03.655Z"
+      "updatedAt": "2026-05-21T11:29:10.805Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
-      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
       "installedAt": "2026-02-04T12:18:09.899Z",
-      "updatedAt": "2026-02-04T12:18:09.899Z"
+      "updatedAt": "2026-05-21T11:29:11.573Z"
     },
     "grill-me": {
       "source": "mattpocock/skills",
@@ -150,10 +150,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/supabase/agent-skills.git",
       "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
-      "skillFolderHash": "95fe6d29daaf88aa9bc3b505ca4defe19ceabf92",
-      "pluginName": "postgres-best-practices",
+      "skillFolderHash": "38cc9cab8bdc817a546adf7949a83e10e7157f06",
       "installedAt": "2026-03-31T11:42:42.975Z",
-      "updatedAt": "2026-03-31T11:42:42.975Z"
+      "updatedAt": "2026-05-21T11:29:12.523Z"
     },
     "ubiquitous-language": {
       "source": "mattpocock/skills",
