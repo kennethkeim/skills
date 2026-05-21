@@ -134,7 +134,7 @@
       "skillPath": "tdd/SKILL.md",
       "skillFolderHash": "28d7822c112f22cf499099881856fdec07bc83a8",
       "installedAt": "2026-03-23T21:36:12.730Z",
-      "updatedAt": "2026-03-23T21:36:12.730Z"
+      "updatedAt": "2026-04-01T17:49:09.604Z"
     },
     "improve-codebase-architecture": {
       "source": "mattpocock/skills",
@@ -144,6 +144,55 @@
       "skillFolderHash": "78b2029cbf4a74fa798c97ea27bc02bdeb2e3237",
       "installedAt": "2026-03-23T21:36:41.508Z",
       "updatedAt": "2026-03-23T21:36:41.508Z"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/supabase/agent-skills.git",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "skillFolderHash": "95fe6d29daaf88aa9bc3b505ca4defe19ceabf92",
+      "pluginName": "postgres-best-practices",
+      "installedAt": "2026-03-31T11:42:42.975Z",
+      "updatedAt": "2026-03-31T11:42:42.975Z"
+    },
+    "ubiquitous-language": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "ubiquitous-language/SKILL.md",
+      "skillFolderHash": "8c52deebe26f5a73a98b94ef844b20e4907c1671",
+      "installedAt": "2026-03-31T17:58:02.225Z",
+      "updatedAt": "2026-03-31T17:58:02.225Z"
+    },
+    "grill-with-docs": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "skillFolderHash": "2c6aa7079cc705a6e0c319fcf23a0fa39968de29",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-05-19T19:12:24.493Z",
+      "updatedAt": "2026-05-19T19:12:24.493Z"
+    },
+    "prototype": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/prototype/SKILL.md",
+      "skillFolderHash": "c91bdc5d02d42ed88a3082a8fa83338895b55bd4",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-05-20T00:33:06.266Z",
+      "updatedAt": "2026-05-20T00:33:06.266Z"
+    },
+    "handoff": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/handoff/SKILL.md",
+      "skillFolderHash": "7bbb60d64c911617cee7f71b2ba9e24364faa14e",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-05-20T00:33:31.161Z",
+      "updatedAt": "2026-05-20T00:33:31.161Z"
     }
   },
   "lastSelectedAgents": [
@@ -153,6 +202,8 @@
     "codex",
     "cursor",
     "deepagents",
+    "dexto",
+    "firebender",
     "gemini-cli",
     "github-copilot",
     "kimi-cli",
